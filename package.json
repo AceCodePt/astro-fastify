@@ -1,5 +1,5 @@
 {
-  "name": "@matthewp/astro-fastify",
+  "name": "@AceCodePt/astro-fastify",
   "version": "3.2.0",
   "description": "A Fastify integration for Astro",
   "main": "lib/index.js",
